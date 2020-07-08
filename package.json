@@ -1,0 +1,15 @@
+{
+  "name": "study-about-sequelize",
+  "version": "1.0.0",
+  "description": "A simple study about sql relationships using Sequelize ORM on Node.js.",
+  "main": "index.js",
+  "author": "Ayres William Raimundo Monteiro",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.0",
+    "sequelize-cli": "^6.2.0"
+  }
+}
